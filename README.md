@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniruddah-biswas&show_icons=true&locale=en" alt="aniruddah-biswas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniruddah-biswas&" alt="aniruddah-biswas" /></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=alexmajumder&layout=compact
+
