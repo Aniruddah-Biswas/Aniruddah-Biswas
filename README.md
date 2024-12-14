@@ -1,4 +1,4 @@
-![Cover Photo](https://private-user-images.githubusercontent.com/57233250/395079201-ec8ca36e-98cf-44ba-94af-41caa332a1d0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM5OTUwOTcsIm5iZiI6MTczMzk5NDc5NywicGF0aCI6Ii81NzIzMzI1MC8zOTUwNzkyMDEtZWM4Y2EzNmUtOThjZi00NGJhLTk0YWYtNDFjYWEzMzJhMWQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjEyVDA5MTMxN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmYTcxNWI1NmNkOWQzNzlhYjkyYmQzN2ZkMDg4YzQ1YmUyOWQwZTViMDAxY2YxZGI2N2ZjMWY2ZGFmYzIxN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hBAcdtY3TWmTSiK24ac1LKrOa3iGm2cU3Rxni21R0ec)
+![Cover Image](https://github.com/user-attachments/assets/4289cdce-13a3-4362-8f84-4894dfa5beba)
 <h1 align="center">Hi 👋, I'm Aniruddah Biswas</h1>
 <h3 align="center">A passionate frontend Backend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
